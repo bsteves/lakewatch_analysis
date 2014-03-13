@@ -1,7 +1,8 @@
-# Enter username and password
+# Enter LW_USER with username and LW_PASSWORD with password
 # Save this file as "connect_to_lakewatch.R"
 
 
-library(RPostgreSQL)
-drv<-dbDriver("PostgreSQL")
-con<-dbConnect(drv, host="pgsql.rc.pdx.edu", dbname="lakewatch", user="", password="" )
+LW_SERVER<-"pgsql.rc.pdx.edu"
+LW_DATABASE<-"lakewatch"
+LW_USER<-""
+LW_PASSWORD<-""
