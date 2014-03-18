@@ -6,7 +6,7 @@ source("connect_to_lakewatch.R")
 drv<-dbDriver("PostgreSQL")
 con<-dbConnect(drv, host=LW_SERVER, dbname=LW_DATABASE, user=LW_USER, password=LW_PASSWORD)
 
-
+ 
 
 users<-dbGetQuery(con, "SELECT id as user_id, username, clinefinder FROM users")
 taxa<-dbGetQuery(con, "SELECT id as taxon_id, taxa_group, scientific_name, common_name, watchlist2 FROM taxa")
