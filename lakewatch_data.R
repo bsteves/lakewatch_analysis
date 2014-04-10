@@ -12,9 +12,9 @@ users <- dbGetQuery(con, "SELECT id as user_id, username, clinefinder FROM users
 taxa <- dbGetQuery(con, "SELECT id as taxon_id, taxa_group, scientific_name, common_name, watchlist2 FROM taxa")
 lakes <- dbGetQuery(con, "SELECT id as lake_id, name as lake_name, county, latitude, longitude, reachcode FROM lakes")
 sites <- dbGetQuery(con, "SELECT id as site_id, user_id, lake_id, name as site_name FROM sites")
-samplings <- dbGetQuery(con, "SELECT id as sampling_id, site_id, lake_id, user_id, date as sampling_date, secchi, temperature, substrate, trap, rake, zigzag, notes FROM samplings")
-physical_data <- dbGetQuery(con, "SELECT id as phyiscal_datum_id, sampling_id, user_id, sampling_type, depth, value, notes FROM physical_data")
-organisms <- dbGetQuery(con, "SELECT id as organism_id, user_id, confidence, sampling_id, sampling_type, taxon_id, count, size, notes FROM organisms")
+samplings <- dbGetQuery(con, "SELECT id as sampling_id, site_id, date as sampling_date, secchi, temperature, substrate, trap, rake, zigzag, notes FROM samplings")
+physical_data <- dbGetQuery(con, "SELECT id as phyiscal_datum_id, sampling_id, sampling_type, depth, value, notes FROM physical_data")
+organisms <- dbGetQuery(con, "SELECT id as organism_id, confidence, sampling_id, sampling_type, taxon_id, count, size, notes FROM organisms")
 
 postgresqlCloseConnection(con)
 
@@ -22,11 +22,16 @@ postgresqlCloseConnection(con)
 dat <- sites %.% inner_join(users, by="user_id") %.% inner_join(lakes, by="lake_id") %.% inner_join(samplings, by="site_id") %.% inner_join(physical_data, by="sampling_id") %.% group_by(site_name)
 
 
-write.csv("OLW_users.csv", users)
+write.csv(users, "OLW_users.csv")
+write.csv(taxa, "OLW_taxa.csv")
+write.csv(lakes, "OLW_lakes.csv")
+write.csv(sites, "OLW_sites.csv")
+write.csv(samplings, "OLW_samplings.csv")
+write.csv(physical_data, "OLW_physical_data.csv")
+write.csv(organisms, "OLW_organisms.csv")
 
 
-
-
+write.csv(dat, "OLW_combined.csv")
 
 # create a temperature profile plot function
 lakeTempPlot <- function(site_dat){ 
