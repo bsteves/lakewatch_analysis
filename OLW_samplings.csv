@@ -1,0 +1,108 @@
+"","sampling_id","site_id","sampling_date","secchi","temperature","substrate","trap","rake","zigzag","notes"
+"1",12,14,2013-07-20,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No aquatic vegetation.
+Shoreline-no invasive veg"
+"2",13,15,2013-07-20,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No vegetation underwater. No AIS on shoreline."
+"3",14,17,2013-07-20,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"4",15,14,2013-08-30,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,""
+"5",16,15,2013-08-30,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"Lake has been drawn down about 20 vertical feet.  Site is high and dry."
+"6",17,22,2013-08-30,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,""
+"7",6,14,2013-07-20,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"As summer progressed the lake dropped 20 plus vertical feet and this site ended up high and dry for several months."
+"8",7,15,2013-07-20,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,""
+"9",18,14,2013-08-30,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,"No crayfish caught.  Lake level dropped about 20 vertical feet.  Original Site 1 survey was high and dry. No vegetation at new lake shoreline"
+"10",19,18,2013-07-19,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No vegetation waist deep out to 20 feet.
+No AIS on shoreline."
+"11",22,21,2013-07-19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"12",20,19,2013-07-19,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No vegetation on bottom out to 20 feet.
+Lots of crawfish shells. All native Signal crawfish."
+"13",21,20,2013-07-19,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No invasive plants on shoreline.  No vegetation on bottom. "
+"14",23,21,2013-11-06,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"15",24,21,2013-07-19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"16",25,21,2013-08-10,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,"Major thunderstorms the night before. Water had sediment from the runoff."
+"17",26,18,2013-08-10,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,"No crawfish caught.  No vegetation on bottom.  No invasive plants on shoreline"
+"18",27,19,2013-08-10,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE," No vegetation on bottom. No invasive plants on shoreline"
+"19",28,20,2013-08-10,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE," No vegetation on bottom. No invasive plants on shoreline"
+"20",29,18,2013-09-13,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"21",30,18,2013-09-13,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,"No crayfish caught.   No vegetation on bottom. No invasive plants on shoreline"
+"22",31,19,2013-09-13,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE," No vegetation on bottom. No invasive plants on shoreline"
+"23",32,20,2013-09-13,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE," No vegetation on bottom. No invasive plants on shoreline"
+"24",70,50,2013-07-13,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,"Lake crowded, could not access deeper part of the lake in the canoe due to boat traffic. Lake water clear."
+"25",37,31,2013-07-10,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"26",38,31,2013-07-23,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,"Crayfish trap at Link Ck - none
+Portland Sampler placed at Suttle Lake Lodge dock 
+"
+"27",39,31,2013-08-29,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,"Nate Nachtler and Pete Schay collected this data. "
+"28",54,40,2014-02-04,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,""
+"29",71,51,2013-07-13,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"30",55,40,2014-02-24,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"31",72,52,2013-07-13,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,""
+"32",73,53,2013-07-13,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,""
+"33",57,42,2013-06-11,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"34",58,42,2013-07-04,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,""
+"35",59,42,2013-07-20,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,""
+"36",60,42,2013-08-14,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"37",61,42,2013-09-02,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"38",62,42,2013-09-23,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,""
+"39",63,42,2013-10-02,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"40",64,42,2014-02-22,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"41",65,45,2012-06-29,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,""
+"42",67,47,2013-06-29,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,""
+"43",68,48,2014-03-05,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,""
+"44",66,46,2013-06-29,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,""
+"45",69,49,2013-07-13,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,"Weather clear, wind calm. Put crayfish trap out for about 4 hours, tied to an old large stump - nothing in trap.
+
+Did shoreline observation, no aquatic or terrestrial invasive species seen. "
+"46",74,50,2013-09-19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,"Clumps of algae floating throughout water column"
+"47",75,51,2013-09-19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,"Floating algae clumps throughout water column."
+"48",76,54,2013-09-19,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"49",77,53,2013-09-19,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,"Retrieved sampler from the site for the winter (floating restroom is removed in early Oct)"
+"50",78,40,2014-03-06,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,""
+"51",101,64,2013-10-29,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,"We first did a fathometric survey of the lake and found the deepest water (of this relatively shallow lake) is near the north end between downed dead trees at a depth then of between 5 and 6 ft. (1.52 - 1.82 m).  This is Station 1.
+
+After a survey of the edges of the lake with a plant sampler (thrown double sided rake), we set up a cluster sampling device at the canoe launch location.  This cluster is comprised of a 3-4 ft length of 1.5 inch d PVC to which is attached a submersed microscope slide holder, a length of webbing submerged at PVC.  Measurement was made from top of PVC to water surface to track water level changes in next few months.
+
+Samples were obtained at Station 1 (deepest water station) with 0.3 m diameter net opening zooplankton net (64 micrometer mesh) top to bottom vertical pull, and a surface grab sample 500 ml for phytoplankton.
+
+A plunger (shaped like a large plastic crayon) was used to sample phytoplankton, zooplankton and sediment in the vicinity of the nearshore PVC cluster (5 pulls for zooplankton), tip bottle and fill for phytoplankton and suck sediment with the plunger at 3-4 separate locations near the PVC cluster.
+
+ "
+"52",106,67,2013-09-02,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No vegetation on bottom of lake and no AIS observed from shoreline. Abundant native signal crayfish observed. see image"
+"53",107,68,2013-09-02,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,"No AIS observed"
+"54",108,69,2013-09-02,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,""
+"55",80,55,2013-07-31,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"My friend Bill Helsley and I sampled Cullaby Lake today using Grumman canoe and had a great time.  I had been on Cullaby Lake many years ago (~1985) with an aquatic plant expert from the OR Dept of Ag who wanted to get a name for a prominent plant in the lake (Brassenia).  I also remember seeing Cabomba.  Both plants are still in the lake.  We put out the mussel web, didn't find any anoxia near the deepest part of the lake; slight decrease in temp to bottom.  We did find many bryozoans in the aquatic plant beds near shore.  This is probably Pectinatella magnifica.  The density and biomass of the individuals we saw in these nearshore plant beds suggest a huge total biomass.  Understanding the role of these bryozoans in this lake is of interest.  The water in Cullaby is very well colored (dark rusty brown).  There is a large relatively flat watershed to the south that may be contributing much of the decomposed plant materials to the lake.
+
+Zooplankton were sampled at this station using a 30 cm diameter net opening with a 64 micrometer mesh.  A sample of phytoplankton was obtained from 0.5 m. into a 500 ml container and preserved with 1% Lugol's solution.
+
+Set set the minnow trap in shallow ater near the eastern shore and baited it with cat food.  No crayfish caught by end of sampling.
+
+Collected snails on Nuphar leaves but found no snails near shore by boat ramp.
+
+We attached the mussel webbing to the slow-no wake buoy at northern end of lake.    "
+"56",81,55,2013-09-19,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,"Stan Geiger and Bill Helsley launched canoe from the County park west side boat ramp ~11 AM.  We went to deepest water station first and completed vertical profile with Hydrolab, then got zooplankton and algae samples.  We then went to the southwest edge of the lake and observed and sampled plants.  We proceeded up the western edge of the lake and got images of shoreline vegetation, ending the survey on the northwest edge adjacent to a chain link fence between the lake and housing (this location is almost directly across from the extensive Nuphar-Nymphaea beds on the east side of the lake (leaves of which had died back since July visit).  Vegetation along west shore generally was rooted out to 6-7 ft depth.  Webbing for mussels was checked at buoy north end; found nothing attached.  Shoreline to south of boat ramp was checked for snails; nothing found.        "
+"57",83,56,2014-03-07,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,"test"
+"58",89,61,2013-08-22,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"Typical mountain weather - windy, then rain, then clearing and dead calm! I thought I saw a Corbicula shell in the shallows, so I worked hard to retrieve it, only to find it was an old Pepsi bottle cap. I removed it from the lake. Huckleberries still taste better than blueberries. Some berries are shriveling on the bush, lack of moisture or late in season? Resort owners report rumor of a snow-machine lost on the lake last winter, but no oil slick. If it was down there, one could see it with a secchi depth of 11.1 meters."
+"59",90,60,2013-10-28,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"The first snows have fallen. Ours (Bob and Steve Wille) are the only tracks in Peninsula Campground. The snow is iced over on the road, so it snowed, thawed, and froze over. The resort gate is locked, they are shut down for the season. We're having an adventure on this trip. We've never been to these lakes this late in the season. Brrr, my hands are cold! The Olallie Lake sampling sites have modified slightly on the three trips as I learned the bottom morphology, so maximum depths may have changed at each site."
+"60",84,58,2013-06-30,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"My map shows Breitenbush Lake to be in Marion County, not Jefferson County.
+
+Since this lake is on Conf. Tribes of Warm Springs land, I obtained verbal permission to be on the lake from Clay Penhollow, Natural Resources, POB C, Warm Springs, OR 97761, 541-553-2014.
+
+Mine was the only boat on the lake. Beautiful clear blue sky, and the mosquitoes were hungry. I left my DNA all around the shoreline. If I come back I will be swatting at relatives.
+
+Rough-skinned newts were common throughout the lake. I saw no fish or signs of fish activity.
+
+A small dam has been constructed at the outlet creek on the south end of the lake, raising the normal lake water levels 8-10"" and drowning some of the shoreline vegetation. There is also evidence of shoreline erosion occurring from the higher water levels; most evident along the eastern shoreline.
+
+
+
+"
+"61",85,59,2013-06-30,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,""
+"62",86,60,2013-06-30,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,""
+"63",87,61,2013-06-30,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,""
+"64",88,60,2013-08-22,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"From observation at the resort dock, the lake is down ~1.0 feet from last observations on 6/30/2013. Saw dead fish near the dock that looked like they had been chewed on, but did not observe predation and could not determine the cause by direct observation of the fish. Heard coyotes howling around Peninsula Campground last might. Bats flying and feeding in the trees over my campsite in evening. Overcast, with spotty showers, in evening before sampling day. Fisherman report fishing for three days without a bite!"
+"65",92,61,2013-10-28,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"Did I mention my hands are cold! Steady wind from the east."
+"66",93,62,2013-06-30,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"I am the only boat on the lake. There is a ""rough"" launch site near the road on the west side of the lake. Rough launch, even for a drift boat!"
+"67",95,63,2013-06-30,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"South basin site was in variable locations, but tried to pick a representative site near center of lake."
+"68",96,62,2013-08-22,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"High overcast, 90% cloud cover, calm winds. ODFW was planting fingerling trout from a truck off the west shore, and missed the water with the end of the hose. Silver fish flashing everywhere along the shoreline. No other boats present. The lake level is down ~10"" from 6/30/2013 visit. Had to place small limbs onto exposed lake bottom to launch and retrieve the boat. Really hard to single-handedly drag a drift boat over a muddy lake bottom; even tougher on the retrieve. Set the brake, rock blocked the wheels, and crank hard on the winch. "
+"69",97,63,2013-08-22,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"Sampled in center of south basin."
+"70",98,62,2013-10-28,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"Bob and Steve Wille continue their snowy adventure in the high Cascade lakes. We see 4 adult swans gliding across the lake, 2 adult bald eagles roosting in a tree on the south end of the lake, 4 ducks of indeterminate species, and 8 lesser scaup. The lake has returned to its ""normal"" level from the August sampling date, so launch and retrieval was do-able. Ice is hanging from the shoreline shrubbery. We are the lone boat on the lake. In fact, we have not seen another vehicle or person since we left the Clackamas River highway."
+"71",99,63,2013-10-28,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,"Last sampling event of the season! Brrr! I will report that we finished early enough with two observers that we had time to buck up a fallen tree over the road in a campground on the way home. Wood for the home fire. It will feel good after this trip."
+"72",103,66,2013-07-16,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,""
